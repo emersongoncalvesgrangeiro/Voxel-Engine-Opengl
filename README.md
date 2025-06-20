@@ -1,2 +1,2 @@
 # VoxelVulkan
-Voxel Engine maked with c++ and Vulkan
+Voxel Engine maked with rustand Vulkan
