@@ -1,2 +1,2 @@
 # VoxelVulkan
-Voxel Engine maked with rustand Vulkan
+Voxel Engine maked with rust and OpenGL
